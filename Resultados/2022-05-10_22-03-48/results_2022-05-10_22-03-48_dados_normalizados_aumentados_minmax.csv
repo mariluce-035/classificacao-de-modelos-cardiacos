@@ -1,0 +1,2 @@
+dataset,model,best_params,best_score,mean_test_roc_auc_ovo,ci_mean_test_roc_auc_ovo,mean_test_precision,ci_mean_test_precision,mean_test_recall,ci_mean_test_recall
+dados_normalizados_aumentados_minmax,SVC,"{'C': 5, 'gamma': 0.01, 'kernel': 'linear', 'probability': True}",0.9489,0.9489,0.9274;0.9703,0.84,0.8078;0.8722,0.8317,0.8001;0.8632

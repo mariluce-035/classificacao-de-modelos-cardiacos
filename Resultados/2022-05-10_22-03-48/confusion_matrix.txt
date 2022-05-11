@@ -1,0 +1,7 @@
+>>>>>>>>>> Processing model SVC.
+Confusion matrix
+
+     SAN  CMD  CMH
+SAN  178    6   16
+CMD   12  167   21
+CMH   19   15  166
