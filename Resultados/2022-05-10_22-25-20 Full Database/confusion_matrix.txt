@@ -1,0 +1,40 @@
+>>>>>>>>>> Processing model GaussianNB.
+Confusion matrix
+
+     SAN  CMD  CMH
+SAN  191    5    4
+CMD   99   94    7
+CMH  114   24   62
+
+>>>>>>>>>> Processing model BernoulliNB.
+Confusion matrix
+
+     SAN  CMD  CMH
+SAN   96   98    6
+CMD   29  156   15
+CMH   33   29  138
+
+>>>>>>>>>> Processing model MLPClassifier.
+Confusion matrix
+
+     SAN  CMD  CMH
+SAN  182   13    5
+CMD   16  167   17
+CMH   14   11  175
+
+>>>>>>>>>> Processing model RandomForestClassifier.
+Confusion matrix
+
+     SAN  CMD  CMH
+SAN  200    0    0
+CMD    0  200    0
+CMH    0    0  200
+
+>>>>>>>>>> Processing model SVC.
+Confusion matrix
+
+     SAN  CMD  CMH
+SAN  186   13    1
+CMD   32  152   16
+CMH   21   10  169
+
